@@ -5,5 +5,7 @@
 
 自然语言处理数据集，包括命名实体识别(NER)
 
-- MSRA
-- 人民日报
+## 命名实体识别
+
+- [MSRA](https://gentlecp.github.io/Datasets/NLP/NER/MSRA.zip)
+- [人民日报](https://gentlecp.github.io/Datasets/NLP/NER/RMRB.zip)
