@@ -14,7 +14,7 @@
 
 - 电影评论情感分类
   - [train.txt](https://gentlecp.github.io/Datasets/NLP/TextClassification/FilmComment/train.txt)：包含2W条左右中文电影评论，其中正负向评论各1W条左右
-  - [validation.txt]((https://gentlecp.github.io/Datasets/NLP/TextClassification/FilmComment/validation.txt))：包含6K条左右中文电影评论，其中正负向评论各3K条左右
+  - [validation.txt](https://gentlecp.github.io/Datasets/NLP/TextClassification/FilmComment/validation.txt)：包含6K条左右中文电影评论，其中正负向评论各3K条左右
   - [test.txt](https://gentlecp.github.io/Datasets/NLP/TextClassification/FilmComment/test.txt)：包含360条左右中文电影评论，其中正负向评论各180条左右
 
 ## 唐诗数据
