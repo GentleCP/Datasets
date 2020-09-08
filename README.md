@@ -23,7 +23,13 @@
 
 - [tang.npz](https://gentlecp.github.io/Datasets/NLP/Poetry/tang.npz)：已经预处理完成的数据文件，包含57580首唐诗，用`numpy`读取,`word2ix`,`ix2word`,`data`
 
+# 数据分析
 
+数据分析相关数据集
+
+## Kaggle
+
+- [Titanic](https://gentlecp.github.io/Datasets/data-analysis/titanic.zip): `Kaggle`的`Titanic`数据集，具体可以参考[Kaggle](https://www.kaggle.com/c/titanic/data)。
 
 
 
